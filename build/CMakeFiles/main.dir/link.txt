@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/main.dir/src/Circle.cpp.o CMakeFiles/main.dir/src/Rectangle.cpp.o CMakeFiles/main.dir/src/Shape.cpp.o CMakeFiles/main.dir/src/Square.cpp.o CMakeFiles/main.dir/src/Triangle.cpp.o CMakeFiles/main.dir/src/main.cpp.o -o ../main  -lraylib -lGL -lm -lpthread -ldl -lrt -lX11 
